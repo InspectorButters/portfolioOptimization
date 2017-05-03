@@ -25,6 +25,6 @@ On the second tab, the transition map displays the optimal portfolio composition
 
 Annual returns are from a 12-year period spanning 2004-2015. The following indices are proxies for asset class performance:
 
-US Large Cap    S&P 500 TR USD
-US Mid Cap      S&P 400 TR USD
-US Small Cap    S&P 600 TR USD
+US Large Cap    S&P 500 TR USD  
+US Mid Cap      S&P 400 TR USD  
+US Small Cap    S&P 600 TR USD  
