@@ -14,3 +14,17 @@ This web application allows the user to generate a 10-asset class (1) Efficient 
 **Generate Button**: Click the button once all inputs are set.
 
 Note that inputs are *not* reactive. No charts will be produced until the user clicks the "Generate" button.
+
+## Output
+
+On the first tab, the efficient frontier is charted using a set of "optimal" portfolios that produce the highest level of expected return at a particular level of risk.
+
+On the second tab, the transition map displays the optimal portfolio composition, in terms of asset class percentage (y-axis), for a particular level of risk (x-axis).
+
+## Investment Returns
+
+Annual returns are from a 12-year period spanning 2004-2015. The following indices are proxies for asset class performance:
+
+US Large Cap    S&P 500 TR USD
+US Mid Cap      S&P 400 TR USD
+US Small Cap    S&P 600 TR USD
