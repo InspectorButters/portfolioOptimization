@@ -3,7 +3,9 @@ This program helps a user optimize investment asset allocation by maximizing exp
 
 The application is deployed at https://herget.shinyapps.io/portOptimization/
   
-  
 ## Using the Application
 
 This web application allows the user to generate a 10-asset class (1) Efficient Frontier and (2) Transition Map.
+
+**Expected Return Inputs**: Enter the expected annualized % return for each of the 10 asset classes in the provided slider inputs (from 0% to 30%)
+
