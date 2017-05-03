@@ -36,4 +36,14 @@ Treasuries (Barclays US Treasury TR USD)
 Corporate (Barclays US Credit TR USD)  
 Asset-backed (Barclays US Securitized TR USD)  
 
+## Asset Class Selection
 
+Asset class selection sought to achieve three goals: 1) each class is investable, 2) classes are mutually exclusive (no overlap), and 3) as collectively-exhaustive of the investable universe as possible.
+
+## Known Issue
+
+At the time of publication, the arrows (up & down) on the minimum %weight input did not populate on some versions of Internet Explorer. As a workaround, manually type the desired integer (1,2,3,4 or 5) in the input box.
+
+## Special Thanks
+
+Code made available by Druce Vertes, CFA, provided the optimization structures used in this application. See http://blog.streeteye.com/blog/2012/01/portfolio-optimization-and-efficient-frontiers-in-r/
